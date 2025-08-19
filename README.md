@@ -3,4 +3,4 @@ GPA calculator in Java, enabling users to input course grades to compute their o
 
 How to run:
 clone repo
-run ** java Main.java ** in root folder
+run **java Main.java** in root folder
